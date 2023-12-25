@@ -18,6 +18,14 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:font/kill/noscope.png",
+            "ascent": 7,
+            "chars": [
+                "\uFfa3"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:font/kill/ak.png",
             "ascent": 7,
             "chars": [
