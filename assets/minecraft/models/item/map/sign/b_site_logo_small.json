@@ -1,0 +1,8 @@
+{
+	"parent": "item/map/sign/b_site_logo",
+	"display": {
+		"fixed": {
+			"scale": [1.2, 1.2, 1.2]
+		}
+	}
+}

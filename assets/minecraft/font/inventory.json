@@ -1,0 +1,94 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/inventory/ak.png",
+            "ascent": 60,
+            "height": 63,
+            "chars": [
+                "\uEfa1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/inventory/glock.png",
+            "ascent": 40,
+            "height": 63,
+            "chars": [
+                "\uEfa2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/inventory/awp.png",
+            "ascent": 60,
+            "height": 63,
+            "chars": [
+                "\uEfa3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/inventory/deagle.png",
+            "ascent": 40,
+            "height": 63,
+            "chars": [
+                "\uEfa4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/inventory/p90.png",
+            "ascent": 60,
+            "height": 63,
+            "chars": [
+                "\uEfa5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/inventory/ump.png",
+            "ascent": 60,
+            "height": 63,
+            "chars": [
+                "\uEfa6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/inventory/m9.png",
+            "ascent": 20,
+            "height": 63,
+            "chars": [
+                "\uEfa7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/inventory/c4.png",
+            "ascent": -20,
+            "height": 63,
+            "chars": [
+                "\uEfa8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/inventory/flashbang.png",
+            "ascent": 0,
+            "height": 63,
+            "chars": [
+                "\uEfa9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/inventory/he.png",
+            "ascent": 0,
+            "height": 63,
+            "chars": [
+                "\uEfaA"
+            ]
+        }
+    ]
+}

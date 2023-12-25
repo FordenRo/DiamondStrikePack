@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 18,
+        "supported_formats": {
+            "min_inclusive": 13,
+            "max_inclusive": 22
+        },
+        "description": "Resource pack for server Model-Strike"
+    }
+}

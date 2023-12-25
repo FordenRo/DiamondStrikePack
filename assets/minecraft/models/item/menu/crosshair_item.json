@@ -1,0 +1,13 @@
+{
+	"parent": "item/cell",
+	"texture_size": [14, 14],
+	"textures": {
+		"0": "item/menu/crosshair_item",
+		"particle": "item/menu/crosshair_item"
+	},
+	"display": {
+		"gui": {
+			"scale": [0.8, 0.8, 1]
+		}
+	}
+}

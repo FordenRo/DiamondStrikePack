@@ -1,0 +1,7 @@
+{
+	"parent": "item/map/barrel/barrel",
+	"textures": {
+		"0": "item/map/barrel/blue_barrel",
+		"particle": "item/map/barrel/blue_barrel"
+	}
+}

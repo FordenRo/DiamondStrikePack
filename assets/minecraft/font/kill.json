@@ -1,0 +1,76 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/kill/headshot.png",
+            "ascent": 7,
+            "chars": [
+                "\uFfa1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/kill/wallbang.png",
+            "ascent": 7,
+            "chars": [
+                "\uFfa2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/kill/ak.png",
+            "ascent": 7,
+            "chars": [
+                "\uEfa1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/kill/glock.png",
+            "ascent": 7,
+            "chars": [
+                "\uEfa2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/kill/awp.png",
+            "ascent": 7,
+            "chars": [
+                "\uEfa3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/kill/deagle.png",
+            "ascent": 7,
+            "chars": [
+                "\uEfa4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/kill/p90.png",
+            "ascent": 7,
+            "chars": [
+                "\uEfa5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/kill/ump.png",
+            "ascent": 7,
+            "chars": [
+                "\uEfa6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/kill/m9.png",
+            "ascent": 7,
+            "chars": [
+                "\uEfa7"
+            ]
+        }
+    ]
+}

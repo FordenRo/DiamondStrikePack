@@ -1,0 +1,7 @@
+{
+	"parent": "item/map/sign/b_site_sign_right",
+	"textures": {
+		"0": "item/map/sign/a_site_sign_right",
+		"particle": "item/map/sign/a_site_sign_right"
+	}
+}

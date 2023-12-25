@@ -1,0 +1,15 @@
+{
+    "parent": "item/16x16_template",
+    "texture_size": [1024, 1024],
+    "textures": {
+		"0": "item/shop",
+		"particle": "item/shop"
+	},
+	"display": {
+		"gui": {
+			"scale": [4, 4, 1],
+            "rotation": [0, 180, 0],
+            "translation": [0, 3, 0]
+		}
+	}
+}

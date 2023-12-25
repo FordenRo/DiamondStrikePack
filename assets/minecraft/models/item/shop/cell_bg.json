@@ -1,0 +1,12 @@
+{
+	"parent": "item/shop/cell",
+	"textures": {
+		"0": "item/shop/cell_bg",
+		"particle": "item/shop/cell_bg"
+	},
+	"display": {
+		"gui": {
+			"translation": [2.5, 0, 0]
+		}
+	}
+}

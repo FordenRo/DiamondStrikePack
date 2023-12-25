@@ -1,0 +1,655 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/diamond_hoe"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 3000
+            },
+            "model": "item/sniper/awp"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4000
+            },
+            "model": "item/smg/p90"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4010
+            },
+            "model": "item/smg/p90_reloading"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4100
+            },
+            "model": "item/smg/ump"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4110
+            },
+            "model": "item/smg/ump_reloading"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5000
+            },
+            "model": "item/knife/m9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5010
+            },
+            "model": "item/knife/m9_claw"
+        },
+
+
+        {
+            "predicate": {
+                "custom_model_data": 100100
+            },
+            "model": "item/pistol/glock/default/idle"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 100201
+            },
+            "model": "item/pistol/glock/default/reload/reload_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100202
+            },
+            "model": "item/pistol/glock/default/reload/reload_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100203
+            },
+            "model": "item/pistol/glock/default/reload/reload_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100204
+            },
+            "model": "item/pistol/glock/default/reload/reload_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100205
+            },
+            "model": "item/pistol/glock/default/reload/reload_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100206
+            },
+            "model": "item/pistol/glock/default/reload/reload_6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100207
+            },
+            "model": "item/pistol/glock/default/reload/reload_7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100208
+            },
+            "model": "item/pistol/glock/default/reload/reload_8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100209
+            },
+            "model": "item/pistol/glock/default/reload/reload_9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100210
+            },
+            "model": "item/pistol/glock/default/reload/reload_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100211
+            },
+            "model": "item/pistol/glock/default/reload/reload_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100212
+            },
+            "model": "item/pistol/glock/default/reload/reload_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100213
+            },
+            "model": "item/pistol/glock/default/reload/reload_13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100214
+            },
+            "model": "item/pistol/glock/default/reload/reload_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100215
+            },
+            "model": "item/pistol/glock/default/reload/reload_15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100216
+            },
+            "model": "item/pistol/glock/default/reload/reload_16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100217
+            },
+            "model": "item/pistol/glock/default/reload/reload_17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100218
+            },
+            "model": "item/pistol/glock/default/reload/reload_18"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100219
+            },
+            "model": "item/pistol/glock/default/reload/reload_19"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100220
+            },
+            "model": "item/pistol/glock/default/reload/reload_20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100221
+            },
+            "model": "item/pistol/glock/default/reload/reload_21"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100222
+            },
+            "model": "item/pistol/glock/default/reload/reload_22"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100223
+            },
+            "model": "item/pistol/glock/default/reload/reload_23"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100224
+            },
+            "model": "item/pistol/glock/default/reload/reload_24"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100225
+            },
+            "model": "item/pistol/glock/default/reload/reload_25"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100226
+            },
+            "model": "item/pistol/glock/default/reload/reload_26"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 100301
+            },
+            "model": "item/pistol/glock/default/fire/fire_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100302
+            },
+            "model": "item/pistol/glock/default/fire/fire_2"
+        },
+
+
+        {
+            "predicate": {
+                "custom_model_data": 200100
+            },
+            "model": "item/rifle/ak/default/idle"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 200201
+            },
+            "model": "item/rifle/ak/default/reload/reload_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200202
+            },
+            "model": "item/rifle/ak/default/reload/reload_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200203
+            },
+            "model": "item/rifle/ak/default/reload/reload_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200204
+            },
+            "model": "item/rifle/ak/default/reload/reload_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200205
+            },
+            "model": "item/rifle/ak/default/reload/reload_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200206
+            },
+            "model": "item/rifle/ak/default/reload/reload_6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200207
+            },
+            "model": "item/rifle/ak/default/reload/reload_7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200208
+            },
+            "model": "item/rifle/ak/default/reload/reload_8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200209
+            },
+            "model": "item/rifle/ak/default/reload/reload_9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200210
+            },
+            "model": "item/rifle/ak/default/reload/reload_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200211
+            },
+            "model": "item/rifle/ak/default/reload/reload_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200212
+            },
+            "model": "item/rifle/ak/default/reload/reload_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200213
+            },
+            "model": "item/rifle/ak/default/reload/reload_13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200214
+            },
+            "model": "item/rifle/ak/default/reload/reload_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200215
+            },
+            "model": "item/rifle/ak/default/reload/reload_15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200216
+            },
+            "model": "item/rifle/ak/default/reload/reload_16"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 200301
+            },
+            "model": "item/rifle/ak/default/fire/fire_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200302
+            },
+            "model": "item/rifle/ak/default/fire/fire_2"
+        },
+
+
+        {
+            "predicate": {
+                "custom_model_data": 300100
+            },
+            "model": "item/pistol/deagle/default/idle"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 300201
+            },
+            "model": "item/pistol/deagle/default/reload/reload_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300202
+            },
+            "model": "item/pistol/deagle/default/reload/reload_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300203
+            },
+            "model": "item/pistol/deagle/default/reload/reload_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300204
+            },
+            "model": "item/pistol/deagle/default/reload/reload_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300205
+            },
+            "model": "item/pistol/deagle/default/reload/reload_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300206
+            },
+            "model": "item/pistol/deagle/default/reload/reload_6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300207
+            },
+            "model": "item/pistol/deagle/default/reload/reload_7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300208
+            },
+            "model": "item/pistol/deagle/default/reload/reload_8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300209
+            },
+            "model": "item/pistol/deagle/default/reload/reload_9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300210
+            },
+            "model": "item/pistol/deagle/default/reload/reload_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300211
+            },
+            "model": "item/pistol/deagle/default/reload/reload_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300212
+            },
+            "model": "item/pistol/deagle/default/reload/reload_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300213
+            },
+            "model": "item/pistol/deagle/default/reload/reload_13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300214
+            },
+            "model": "item/pistol/deagle/default/reload/reload_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300215
+            },
+            "model": "item/pistol/deagle/default/reload/reload_15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300216
+            },
+            "model": "item/pistol/deagle/default/reload/reload_16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300217
+            },
+            "model": "item/pistol/deagle/default/reload/reload_17"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 300301
+            },
+            "model": "item/pistol/deagle/default/fire/fire_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 300302
+            },
+            "model": "item/pistol/deagle/default/fire/fire_2"
+        },
+		
+		
+		{
+			"predicate": {
+				"custom_model_data": 400101
+			},
+			"model": "item/knife/m9/default/idle"
+		},
+
+        {
+            "predicate": {
+                "custom_model_data": 400201
+            },
+            "model": "item/knife/m9/default/attack/attack_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400202
+            },
+            "model": "item/knife/m9/default/attack/attack_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400203
+            },
+            "model": "item/knife/m9/default/attack/attack_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400204
+            },
+            "model": "item/knife/m9/default/attack/attack_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400205
+            },
+            "model": "item/knife/m9/default/attack/attack_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400206
+            },
+            "model": "item/knife/m9/default/attack/attack_6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400207
+            },
+            "model": "item/knife/m9/default/attack/attack_7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400208
+            },
+            "model": "item/knife/m9/default/attack/attack_8"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 400301
+            },
+            "model": "item/knife/m9/default/secondary_attack/secondary_attack_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400302
+            },
+            "model": "item/knife/m9/default/secondary_attack/secondary_attack_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400303
+            },
+            "model": "item/knife/m9/default/secondary_attack/secondary_attack_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400304
+            },
+            "model": "item/knife/m9/default/secondary_attack/secondary_attack_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400305
+            },
+            "model": "item/knife/m9/default/secondary_attack/secondary_attack_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400306
+            },
+            "model": "item/knife/m9/default/secondary_attack/secondary_attack_6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400307
+            },
+            "model": "item/knife/m9/default/secondary_attack/secondary_attack_7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400308
+            },
+            "model": "item/knife/m9/default/secondary_attack/secondary_attack_8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400310
+            },
+            "model": "item/knife/m9/default/secondary_attack/secondary_attack_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400312
+            },
+            "model": "item/knife/m9/default/secondary_attack/secondary_attack_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400314
+            },
+            "model": "item/knife/m9/default/secondary_attack/secondary_attack_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400316
+            },
+            "model": "item/knife/m9/default/secondary_attack/secondary_attack_16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400318
+            },
+            "model": "item/knife/m9/default/secondary_attack/secondary_attack_18"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 400401
+            },
+            "model": "item/knife/m9/default/another_attack/attack_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400402
+            },
+            "model": "item/knife/m9/default/another_attack/attack_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400403
+            },
+            "model": "item/knife/m9/default/another_attack/attack_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400404
+            },
+            "model": "item/knife/m9/default/another_attack/attack_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400405
+            },
+            "model": "item/knife/m9/default/another_attack/attack_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400406
+            },
+            "model": "item/knife/m9/default/another_attack/attack_6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400407
+            },
+            "model": "item/knife/m9/default/another_attack/attack_7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400408
+            },
+            "model": "item/knife/m9/default/another_attack/attack_8"
+        }
+    ]
+}

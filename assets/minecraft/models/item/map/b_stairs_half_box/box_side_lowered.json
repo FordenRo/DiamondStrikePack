@@ -1,0 +1,9 @@
+{
+	"parent": "item/map/b_stairs_half_box/box",
+	"display": {
+		"fixed": {
+			"translation": [-16, 0, 32],
+			"scale": [3.7, 4, 3.7]
+		}
+	}
+}

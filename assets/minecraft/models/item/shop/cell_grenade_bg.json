@@ -1,0 +1,11 @@
+{
+	"parent": "item/shop/cell_grenade",
+	"textures": {
+		"0": "item/shop/cell_grenade_bg"
+	},
+	"display": {
+		"gui": {
+			"translation": [0, -17.5, 0]
+		}
+	}
+}

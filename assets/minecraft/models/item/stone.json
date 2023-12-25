@@ -1,0 +1,233 @@
+{
+    "parent": "minecraft:block/stone",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1000
+            },
+            "model": "item/chooseteam"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1001
+            },
+            "model": "item/shop"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1002
+            },
+            "model": "item/menu/menu"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1003
+            },
+            "model": "item/menu/settings_item"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1004
+            },
+            "model": "item/menu/inventory_item"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1005
+            },
+            "model": "item/menu/crosshair_item"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1100
+            },
+            "model": "item/shop/cell_bg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1101
+            },
+            "model": "item/shop/ak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1102
+            },
+            "model": "item/shop/glock"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1103
+            },
+            "model": "item/shop/awp"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1104
+            },
+            "model": "item/shop/deagle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1105
+            },
+            "model": "item/shop/p90"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1106
+            },
+            "model": "item/shop/ump"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1107
+            },
+            "model": "item/shop/kevlar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1108
+            },
+            "model": "item/shop/helmet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1200
+            },
+            "model": "item/shop/cell_grenade_bg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1201
+            },
+            "model": "item/shop/flashbang"
+        },
+		{
+			"predicate": {
+				"custom_model_data": 1202
+			},
+			"model": "item/shop/he"
+		},
+        {
+            "predicate": {
+                "custom_model_data": 2000
+            },
+            "model": "item/inventory/item_bg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2010
+            },
+            "model": "item/inventory/arcane"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3000
+            },
+            "model": "item/map/sign/b_site_sign_right"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3001
+            },
+            "model": "item/map/sign/b_site_sign_left"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3002
+            },
+            "model": "item/map/sign/a_site_sign_right"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3003
+            },
+            "model": "item/map/sign/a_site_sign_left"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3004
+            },
+            "model": "item/map/sign/b_site_logo"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3005
+            },
+            "model": "item/map/sign/b_site_logo_small"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3006
+            },
+            "model": "item/map/barrel/barrel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3007
+            },
+            "model": "item/map/barrel/blue_barrel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3008
+            },
+            "model": "item/map/sign/a_site_logo"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3009
+            },
+            "model": "item/map/sign/a_site_logo_small"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3010
+            },
+            "model": "item/map/b_stairs_half_box/box"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3011
+            },
+            "model": "item/map/b_stairs_half_box/box_rotated"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3012
+            },
+            "model": "item/map/b_stairs_half_box/box_rotated2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3013
+            },
+            "model": "item/map/b_stairs_half_box/box_side"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3014
+            },
+            "model": "item/map/b_stairs_half_box/box_side_rotated"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3015
+            },
+            "model": "item/map/b_stairs_half_box/box_side_rotated2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3016
+            },
+            "model": "item/map/b_stairs_half_box/box_side_lowered"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3017
+            },
+            "model": "item/map/ball"
+        }
+    ]
+}

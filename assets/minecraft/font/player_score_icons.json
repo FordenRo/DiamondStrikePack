@@ -1,0 +1,20 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/player_score_icons/terrorist.png",
+            "ascent": 8,
+            "chars": [
+                "\uEfa1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/player_score_icons/counter_terrorist.png",
+            "ascent": 8,
+            "chars": [
+                "\uEfa2"
+            ]
+        }
+    ]
+}

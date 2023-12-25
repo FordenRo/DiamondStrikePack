@@ -1,0 +1,52 @@
+{
+    "variants": {
+      "facing=east,half=bottom,open=false,powered=true": {
+        "model": "minecraft:block/air"
+      },
+      "facing=east,half=bottom,open=true,powered=true": {
+        "model": "minecraft:block/air"
+      },
+      "facing=east,half=top,open=false,powered=true": {
+        "model": "minecraft:block/air"
+      },
+      "facing=east,half=top,open=true,powered=true": {
+        "model": "minecraft:block/air"
+      },
+      "facing=north,half=bottom,open=false,powered=true": {
+        "model": "minecraft:block/air"
+      },
+      "facing=north,half=bottom,open=true,powered=true": {
+        "model": "minecraft:block/air"
+      },
+      "facing=north,half=top,open=false,powered=true": {
+        "model": "minecraft:block/air"
+      },
+      "facing=north,half=top,open=true,powered=true": {
+        "model": "minecraft:block/air"
+      },
+      "facing=south,half=bottom,open=false,powered=true": {
+        "model": "minecraft:block/air"
+      },
+      "facing=south,half=bottom,open=true,powered=true": {
+        "model": "minecraft:block/air"
+      },
+      "facing=south,half=top,open=false,powered=true": {
+        "model": "minecraft:block/air"
+      },
+      "facing=south,half=top,open=true,powered=true": {
+        "model": "minecraft:block/air"
+      },
+      "facing=west,half=bottom,open=false,powered=true": {
+        "model": "minecraft:block/air"
+      },
+      "facing=west,half=bottom,open=true,powered=true": {
+        "model": "minecraft:block/air"
+      },
+      "facing=west,half=top,open=false,powered=true": {
+        "model": "minecraft:block/air"
+      },
+      "facing=west,half=top,open=true,powered=true": {
+        "model": "minecraft:block/air"
+      }
+    }
+  }

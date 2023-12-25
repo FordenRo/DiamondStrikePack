@@ -1,0 +1,9 @@
+{
+	"parent": "item/map/plant_cross",
+	"display": {
+		"fixed": {
+			"translation": [0, 0, 16],
+			"scale": [1.8, 1.8, 1]
+		}
+	}
+}

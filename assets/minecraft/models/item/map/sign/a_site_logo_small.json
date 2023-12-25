@@ -1,0 +1,9 @@
+{
+	"parent": "item/map/sign/a_site_logo",
+	"display": {
+		"fixed": {
+			"translation": [0, 8, 0],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "item/shop/cell",
+	"textures": {
+		"0": "item/shop/p90",
+		"particle": "item/shop/p90"
+	}
+}

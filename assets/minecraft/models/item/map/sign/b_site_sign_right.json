@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"texture_size": [384, 91],
+	"textures": {
+		"0": "item/map/sign/b_site_sign_right",
+		"particle": "item/map/sign/b_site_sign_right"
+	},
+	"elements": [
+		{
+			"from": [-16, 2, 7.5],
+			"to": [32, 14, 8.5],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"scale": [1.5, 1.5, 1]
+		}
+	}
+}

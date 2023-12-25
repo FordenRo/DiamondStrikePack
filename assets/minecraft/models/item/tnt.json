@@ -1,0 +1,71 @@
+{
+    "parent": "minecraft:block/tnt",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1000
+            },
+            "model": "item/bomb/bomb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1001
+            },
+            "model": "item/bomb/bomb_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1002
+            },
+            "model": "item/bomb/bomb_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1003
+            },
+            "model": "item/bomb/bomb_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1004
+            },
+            "model": "item/bomb/bomb_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1005
+            },
+            "model": "item/bomb/bomb_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1006
+            },
+            "model": "item/bomb/bomb_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1007
+            },
+            "model": "item/bomb/bomb_6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1008
+            },
+            "model": "item/bomb/bomb_7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2000
+            },
+            "model": "item/grenade/flashbang"
+        },
+		{
+			"predicate": {
+				"custom_model_data": 2100
+			},
+			"model": "item/grenade/he"
+		}
+    ]
+}

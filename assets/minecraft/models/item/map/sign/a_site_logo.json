@@ -1,0 +1,13 @@
+{
+	"parent": "item/16x16_template",
+	"texture_size": [256, 256],
+	"textures": {
+		"0": "item/map/sign/a_site_logo",
+		"particle": "item/map/sign/a_site_logo"
+	},
+	"display": {
+		"fixed": {
+			"scale": [1.4, 1.4, 1.4]
+		}
+	}
+}

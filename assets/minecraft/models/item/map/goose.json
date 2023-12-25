@@ -1,0 +1,14 @@
+{
+	"parent": "item/16x16_template",
+	"texture_size": [292, 292],
+	"textures": {
+		"0": "item/map/goose",
+		"particle": "item/map/goose"
+	},
+	"display": {
+		"fixed": {
+			"translation": [0, -6, 0],
+			"scale": [1.4, 1.4, 1.4]
+		}
+	}
+}

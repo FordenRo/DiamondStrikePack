@@ -1,0 +1,286 @@
+{
+    "draw": {
+        "sounds": [
+            "draw"
+        ]
+    },
+    "throw": {
+        "sounds": [
+            "throw"
+        ]
+    },
+    "chooseteam": {
+        "sounds": [
+            "chooseteam"
+        ]
+    },
+    "round_starting": {
+        "sounds": [
+            "round/starting1",
+            "round/starting2",
+            "round/starting3"
+        ]
+    },
+    "round_started": {
+        "sounds": [
+            "round/started"
+        ]
+    },
+    "round_ending": {
+        "sounds": [
+            "round/ending"
+        ]
+    },
+    "round_ctwin": {
+        "sounds": [
+            "round/ctwin"
+        ]
+    },
+    "round_twin": {
+        "sounds": [
+            "round/twin"
+        ]
+    },
+    "round_draw": {
+        "sounds": [
+            "round/draw"
+        ]
+    },
+    "round_counter": {
+        "sounds": [
+            "round/counter"
+        ]
+    },
+    "bomb_hasbeenplanted": {
+        "sounds": [
+            "bomb/hasbeenplanted"
+        ]
+    },
+    "bomb_planted": {
+        "sounds": [
+            "bomb/planted"
+        ]
+    },
+    "bomb_click": {
+        "sounds": [
+            "bomb/click"
+        ]
+    },
+    "bomb_place": {
+        "sounds": [
+            "bomb/place"
+        ]
+    },
+    "bomb_hasbeendefused": {
+        "sounds": [
+            "bomb/hasbeendefused"
+        ]
+    },
+    "bomb_beep": {
+        "sounds": [
+            "bomb/beep"
+        ]
+    },
+    "bomb_defusing": {
+        "sounds": [
+            "bomb/defusing"
+        ]
+    },
+    "bomb_planting": {
+        "sounds": [
+            "bomb/planting"
+        ]
+    },
+    "bomb_explode": {
+        "sounds": [
+            "bomb/explode"
+        ]
+    },
+    "cantbuy": {
+        "sounds": [
+            "cantbuy"
+        ]
+    },
+    "talk": {
+        "sounds": [
+            "talk"
+        ]
+    },
+    "click": {
+        "sounds": [
+            "click"
+        ]
+    },
+    "death": {
+        "sounds": [
+            "death"
+        ]
+    },
+    "empty": {
+        "sounds": [
+            "empty"
+        ]
+    },
+    "damage_body": {
+        "sounds": [
+            "damage/body"
+        ]
+    },
+    "damage_head": {
+        "sounds": [
+            "damage/head"
+        ]
+    },
+    "damage_helmet": {
+        "sounds": [
+            "damage/helmet"
+        ]
+    },
+    "damage_miss": {
+        "sounds": [
+            "damage/miss"
+        ]
+    },
+    "damage_hole": {
+        "sounds": [
+            "damage/hole"
+        ]
+    },
+    "knife_knife_attack": {
+        "sounds": [
+            "knife/knife/attack"
+        ]
+    },
+    "knife_knife_secondary_attack": {
+        "sounds": [
+            "knife/knife/secondary_attack"
+        ]
+    },
+    "knife_knife_hit": {
+        "sounds": [
+            "knife/knife/hit_1",
+            "knife/knife/hit_2",
+            "knife/knife/hit_3",
+            "knife/knife/hit_4"
+        ]
+    },
+    "knife_knife_hit_secondary": {
+        "sounds": [
+            "knife/knife/hit_secondary"
+        ]
+    },
+    "knife_knife_hit_wall": {
+        "sounds": [
+            "knife/knife/hit_wall_1",
+            "knife/knife/hit_wall_2",
+            "knife/knife/hit_wall_3",
+            "knife/knife/hit_wall_4",
+            "knife/knife/hit_wall_5"
+        ]
+    },
+    "knife_knife_draw": {
+        "sounds": [
+            "knife/knife/draw"
+        ]
+    },
+    "pistol_glock_fire": {
+        "sounds": [
+            "pistol/glock/fire"
+        ]
+    },
+	"pistol_glock_clip_in": {
+		"sounds": [
+			"pistol/glock/clip_in"
+		]
+	},
+	"pistol_glock_clip_out": {
+		"sounds": [
+			"pistol/glock/clip_out"
+		]
+	},
+	"pistol_glock_slide_back": {
+		"sounds": [
+			"pistol/glock/slide_back"
+		]
+	},
+	"pistol_glock_slide_release": {
+		"sounds": [
+			"pistol/glock/slide_release"
+		]
+	},
+    "pistol_usp_fire": {
+        "sounds": [
+            "pistol/usp/fire"
+        ]
+    },
+    "pistol_deagle_fire": {
+        "sounds": [
+            "pistol/deagle/fire"
+        ]
+    },
+	"pistol_deagle_clip_in": {
+		"sounds": [
+			"pistol/deagle/clip_in"
+		]
+	},
+	"pistol_deagle_clip_out": {
+		"sounds": [
+			"pistol/deagle/clip_out"
+		]
+	},
+	"pistol_deagle_slide_back": {
+		"sounds": [
+			"pistol/deagle/slide_back"
+		]
+	},
+	"pistol_deagle_slide_release": {
+		"sounds": [
+			"pistol/deagle/slide_release"
+		]
+	},
+    "rifle_ak_fire": {
+        "sounds": [
+            "rifle/ak/fire"
+        ]
+    },
+    "sniper_awp_fire": {
+        "sounds": [
+            "sniper/awp/fire"
+        ]
+    },
+    "smg_p90_fire": {
+        "sounds": [
+            "smg/p90/fire"
+        ]
+    },
+    "smg_ump_fire": {
+        "sounds": [
+            "smg/ump/fire"
+        ]
+    },
+    "grenade_flashbang_hit": {
+        "sounds": [
+            "grenade/flashbang/hit"
+        ]
+    },
+    "grenade_flashbang_explode": {
+        "sounds": [
+            "grenade/flashbang/explode"
+        ]
+    },
+    "grenade_flashbang_explode_distant": {
+        "sounds": [
+            "grenade/flashbang/explode_distant"
+        ]
+    },
+    "grenade_he_hit": {
+        "sounds": [
+            "grenade/he/hit"
+        ]
+    },
+    "grenade_he_explode": {
+        "sounds": [
+            "grenade/he/explode"
+        ]
+    }
+}

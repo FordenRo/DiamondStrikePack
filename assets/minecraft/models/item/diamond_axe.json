@@ -1,0 +1,50 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/diamond_axe"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1000
+            },
+            "model": "item/hands/glock"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2000
+            },
+            "model": "item/hands/ak"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3000
+            },
+            "model": "item/hands/knife"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3100
+            },
+            "model": "item/hands/bomb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4000
+            },
+            "model": "item/hands/awp"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5000
+            },
+            "model": "item/hands/p90"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5100
+            },
+            "model": "item/hands/ump"
+        }
+    ]
+}

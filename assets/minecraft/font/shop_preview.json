@@ -1,0 +1,103 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/shop/background_preview.png",
+            "ascent": 4,
+            "height": 39,
+            "chars": [
+                "\uEff1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/shop/ak_preview.png",
+            "ascent": 0,
+            "height": 31,
+            "chars": [
+                "\uEfa1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/shop/glock_preview.png",
+            "ascent": 0,
+            "height": 31,
+            "chars": [
+                "\uEfa2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/shop/awp_preview.png",
+            "ascent": 0,
+            "height": 31,
+            "chars": [
+                "\uEfa3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/shop/deagle_preview.png",
+            "ascent": 0,
+            "height": 31,
+            "chars": [
+                "\uEfa4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/shop/p90_preview.png",
+            "ascent": 0,
+            "height": 31,
+            "chars": [
+                "\uEfa5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/shop/helmet_preview.png",
+            "ascent": 0,
+            "height": 31,
+            "chars": [
+                "\uEfa6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/shop/kevlar_preview.png",
+            "ascent": 0,
+            "height": 31,
+            "chars": [
+                "\uEfa7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/shop/ump_preview.png",
+            "ascent": 0,
+            "height": 31,
+            "chars": [
+                "\uEfa8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/shop/flashbang_preview.png",
+            "ascent": 0,
+            "height": 31,
+            "chars": [
+                "\uEfa9"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/shop/he_preview.png",
+            "ascent": 0,
+            "height": 31,
+            "chars": [
+                "\uEfaA"
+            ]
+        }
+    ]
+}

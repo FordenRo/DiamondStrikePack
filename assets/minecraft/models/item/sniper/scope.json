@@ -1,0 +1,39 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/sniper/scope",
+		"1": "item/sniper/scope_bg",
+		"particle": "item/sniper/scope"
+	},
+	"elements": [
+		{
+			"from": [4, 4, 7.5],
+			"to": [12, 12, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
+			"faces": {
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-16, 4, 7.5],
+			"to": [32, 12, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
+			"faces": {
+				"south": {"uv": [1, 0, 15, 1], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [-8.9, 8.325, 0],
+			"scale": [2.2, 2.2, 1]
+		},
+		"gui": {
+			"scale": [0, 0, 0]
+		}
+	}
+}

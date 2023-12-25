@@ -1,0 +1,13 @@
+{
+	"parent": "item/cell",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "item/menu/inventory_item",
+		"particle": "item/menu/inventory_item"
+	},
+	"display": {
+		"gui": {
+			"scale": [1, 1, 1]
+		}
+	}
+}

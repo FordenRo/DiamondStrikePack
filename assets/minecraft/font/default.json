@@ -1,0 +1,119 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/flash.png",
+            "ascent": 256,
+            "height": 512,
+            "chars": [
+                "\uFea1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/score.png",
+            "ascent": 0,
+            "height": 30,
+            "chars": [
+                "\uEff1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/bomb_score.png",
+            "ascent": -2,
+            "height": 10,
+            "chars": [
+                "\uEff2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/player_score_icons/terrorist.png",
+            "ascent": 0,
+            "height": 30,
+            "chars": [
+                "\uEfa1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/player_score_icons/counter_terrorist.png",
+            "ascent": 0,
+            "height": 30,
+            "chars": [
+                "\uEfa2"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/winner/terrorist.png",
+            "ascent": -50,
+            "height": 41,
+            "chars": [
+                "\uEfa3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/winner/counter_terrorist.png",
+            "ascent": -50,
+            "height": 41,
+            "chars": [
+                "\uEfa4"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/winner/bg.png",
+            "ascent": -85,
+            "height": 63,
+            "chars": [
+                "\uEfa5"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/shop/background.png",
+            "ascent": 5,
+            "height": 116,
+            "chars": [
+                "\uEfa6"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/player_inventory/background.png",
+            "ascent": 5,
+            "height": 128,
+            "chars": [
+                "\uEfa7"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/winner/terrorist.png",
+            "ascent": 0,
+            "height": 31,
+            "chars": [
+                "\uEfa8"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/winner/counter_terrorist.png",
+            "ascent": 0,
+            "height": 31,
+            "chars": [
+                "\uEfa9"
+            ]
+        }
+    ]
+}

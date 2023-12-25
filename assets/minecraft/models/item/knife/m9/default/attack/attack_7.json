@@ -1,0 +1,36 @@
+{
+    "parent": "item/knife/m9/default/idle",
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [
+                81.5,
+                -65,
+                67.5
+            ],
+            "translation": [
+                -1.5,
+                4.5,
+                2
+            ]
+        },
+        "firstperson_righthand": {
+            "rotation": [
+                130.64,
+                -7.46,
+                144.14
+            ],
+            "translation": [
+                7,
+                12,
+                -5
+            ]
+        },
+        "gui": {
+            "scale": [
+                0,
+                0,
+                0
+            ]
+        }
+    }
+}

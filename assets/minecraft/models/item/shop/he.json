@@ -1,0 +1,7 @@
+{
+	"parent": "item/shop/cell_grenade",
+	"textures": {
+		"0": "item/shop/he",
+		"particle": "item/shop/he"
+	}
+}
