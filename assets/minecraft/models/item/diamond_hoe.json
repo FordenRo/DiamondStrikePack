@@ -650,6 +650,55 @@
                 "custom_model_data": 400408
             },
             "model": "item/knife/m9/default/another_attack/attack_8"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 400501
+            },
+            "model": "item/knife/m9/default/back_stab/stab_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400502
+            },
+            "model": "item/knife/m9/default/back_stab/stab_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400503
+            },
+            "model": "item/knife/m9/default/back_stab/stab_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400504
+            },
+            "model": "item/knife/m9/default/back_stab/stab_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400505
+            },
+            "model": "item/knife/m9/default/back_stab/stab_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400506
+            },
+            "model": "item/knife/m9/default/back_stab/stab_6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400507
+            },
+            "model": "item/knife/m9/default/back_stab/stab_7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400508
+            },
+            "model": "item/knife/m9/default/back_stab/stab_8"
         }
     ]
 }
