@@ -243,6 +243,21 @@
             "rifle/ak/fire"
         ]
     },
+    "rifle_ak_clip_in": {
+        "sounds": [
+            "rifle/ak/clip_in"
+        ]
+    },
+    "rifle_ak_clip_out": {
+        "sounds": [
+            "rifle/ak/clip_out"
+        ]
+    },
+    "rifle_ak_bolt_pull": {
+        "sounds": [
+            "rifle/ak/bolt_pull"
+        ]
+    },
     "sniper_awp_fire": {
         "sounds": [
             "sniper/awp/fire"
