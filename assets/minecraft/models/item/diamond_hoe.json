@@ -329,6 +329,48 @@
             },
             "model": "item/rifle/ak/default/reload/reload_16"
         },
+        {
+            "predicate": {
+                "custom_model_data": 200217
+            },
+            "model": "item/rifle/ak/default/reload/reload_17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200218
+            },
+            "model": "item/rifle/ak/default/reload/reload_18"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200219
+            },
+            "model": "item/rifle/ak/default/reload/reload_19"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200220
+            },
+            "model": "item/rifle/ak/default/reload/reload_20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200221
+            },
+            "model": "item/rifle/ak/default/reload/reload_21"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200222
+            },
+            "model": "item/rifle/ak/default/reload/reload_22"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200223
+            },
+            "model": "item/rifle/ak/default/reload/reload_23"
+        },
 
         {
             "predicate": {
