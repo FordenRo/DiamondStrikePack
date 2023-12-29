@@ -6,12 +6,6 @@
     "overrides": [
         {
             "predicate": {
-                "custom_model_data": 3000
-            },
-            "model": "item/sniper/awp"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 4000
             },
             "model": "item/smg/p90"
@@ -749,7 +743,49 @@
                 "custom_model_data": 500101
             },
             "model": "item/sniper/awp/default/idle"
-        }
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 500201
+            },
+            "model": "item/sniper/awp/default/fire/fire_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500202
+            },
+            "model": "item/sniper/awp/default/fire/fire_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500203
+            },
+            "model": "item/sniper/awp/default/fire/fire_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500204
+            },
+            "model": "item/sniper/awp/default/fire/fire_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500205
+            },
+            "model": "item/sniper/awp/default/fire/fire_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500206
+            },
+            "model": "item/sniper/awp/default/fire/fire_6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500207
+            },
+            "model": "item/sniper/awp/default/fire/fire_7"
         }
     ]
 }
