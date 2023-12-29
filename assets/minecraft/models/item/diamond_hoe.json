@@ -741,6 +741,15 @@
                 "custom_model_data": 400508
             },
             "model": "item/knife/m9/default/back_stab/stab_8"
+        },
+
+
+        {
+            "predicate": {
+                "custom_model_data": 500101
+            },
+            "model": "item/sniper/awp/default/idle"
+        }
         }
     ]
 }
