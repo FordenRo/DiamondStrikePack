@@ -28,18 +28,6 @@
             },
             "model": "item/smg/ump_reloading"
         },
-        {
-            "predicate": {
-                "custom_model_data": 5000
-            },
-            "model": "item/knife/m9"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 5010
-            },
-            "model": "item/knife/m9_claw"
-        },
 
 
         {
