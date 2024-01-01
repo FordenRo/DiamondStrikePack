@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/hit_marker.png",
+            "height": 4,
+            "ascent": -1,
+            "chars": [
+                "\uFfa1"
+            ]
+        }
+    ]
+}
