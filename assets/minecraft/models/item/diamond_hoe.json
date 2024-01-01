@@ -774,6 +774,43 @@
                 "custom_model_data": 500207
             },
             "model": "item/sniper/awp/default/fire/fire_7"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 500301
+            },
+            "model": "item/sniper/awp/default/bolt/bolt_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500302
+            },
+            "model": "item/sniper/awp/default/bolt/bolt_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500303
+            },
+            "model": "item/sniper/awp/default/bolt/bolt_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500304
+            },
+            "model": "item/sniper/awp/default/bolt/bolt_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500305
+            },
+            "model": "item/sniper/awp/default/bolt/bolt_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500306
+            },
+            "model": "item/sniper/awp/default/bolt/bolt_6"
         }
     ]
 }
