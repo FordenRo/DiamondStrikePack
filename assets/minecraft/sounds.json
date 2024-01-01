@@ -263,6 +263,16 @@
             "sniper/awp/fire"
         ]
     },
+    "sniper_awp_bolt_back": {
+        "sounds": [
+            "sniper/awp/bolt_back"
+        ]
+    },
+    "sniper_awp_bolt_forward": {
+        "sounds": [
+            "sniper/awp/bolt_forward"
+        ]
+    },
     "smg_p90_fire": {
         "sounds": [
             "smg/p90/fire"
