@@ -811,6 +811,145 @@
                 "custom_model_data": 500306
             },
             "model": "item/sniper/awp/default/bolt/bolt_6"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 500401
+            },
+            "model": "item/sniper/awp/default/reload/reload_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500402
+            },
+            "model": "item/sniper/awp/default/reload/reload_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500403
+            },
+            "model": "item/sniper/awp/default/reload/reload_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500404
+            },
+            "model": "item/sniper/awp/default/reload/reload_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500405
+            },
+            "model": "item/sniper/awp/default/reload/reload_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500406
+            },
+            "model": "item/sniper/awp/default/reload/reload_6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500407
+            },
+            "model": "item/sniper/awp/default/reload/reload_7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500408
+            },
+            "model": "item/sniper/awp/default/reload/reload_8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500409
+            },
+            "model": "item/sniper/awp/default/reload/reload_9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500410
+            },
+            "model": "item/sniper/awp/default/reload/reload_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500411
+            },
+            "model": "item/sniper/awp/default/reload/reload_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500412
+            },
+            "model": "item/sniper/awp/default/reload/reload_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500413
+            },
+            "model": "item/sniper/awp/default/reload/reload_13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500414
+            },
+            "model": "item/sniper/awp/default/reload/reload_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500415
+            },
+            "model": "item/sniper/awp/default/reload/reload_15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500416
+            },
+            "model": "item/sniper/awp/default/reload/reload_16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500417
+            },
+            "model": "item/sniper/awp/default/reload/reload_17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500418
+            },
+            "model": "item/sniper/awp/default/reload/reload_18"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500419
+            },
+            "model": "item/sniper/awp/default/reload/reload_19"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500420
+            },
+            "model": "item/sniper/awp/default/reload/reload_20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500421
+            },
+            "model": "item/sniper/awp/default/reload/reload_21"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500422
+            },
+            "model": "item/sniper/awp/default/reload/reload_22"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 500423
+            },
+            "model": "item/sniper/awp/default/reload/reload_23"
         }
     ]
 }
