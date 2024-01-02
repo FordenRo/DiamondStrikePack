@@ -268,6 +268,21 @@
             "sniper/awp/bolt_back"
         ]
     },
+    "sniper_awp_clip_in": {
+        "sounds": [
+            "sniper/awp/clip_in"
+        ]
+    },
+    "sniper_awp_clip_out": {
+        "sounds": [
+            "sniper/awp/clip_out"
+        ]
+    },
+    "sniper_awp_clip_hit": {
+        "sounds": [
+            "sniper/awp/clip_hit"
+        ]
+    },
     "sniper_awp_bolt_forward": {
         "sounds": [
             "sniper/awp/bolt_forward"
