@@ -6,6 +6,12 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 0
+            },
+            "model": "item/blank"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 4000
             },
             "model": "item/smg/p90"
