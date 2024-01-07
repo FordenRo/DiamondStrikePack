@@ -118,94 +118,94 @@
     },
     "empty": {
         "sounds": [
-            "empty"
+            "empty_m"
         ]
     },
     "damage_body": {
         "sounds": [
-            "damage/body"
+            "damage/body_m"
         ]
     },
     "damage_head": {
         "sounds": [
-            "damage/head"
+            "damage/head_m"
         ]
     },
     "damage_helmet": {
         "sounds": [
-            "damage/helmet"
+            "damage/helmet_m"
         ]
     },
     "damage_miss": {
         "sounds": [
-            "damage/miss"
+            "damage/miss_m"
         ]
     },
     "damage_hole": {
         "sounds": [
-            "damage/hole"
+            "damage/hole_m"
         ]
     },
     "knife_knife_attack": {
         "sounds": [
-            "knife/knife/attack"
+            "knife/knife/attack_m"
         ]
     },
     "knife_knife_secondary_attack": {
         "sounds": [
-            "knife/knife/secondary_attack"
+            "knife/knife/secondary_attack_m"
         ]
     },
     "knife_knife_hit": {
         "sounds": [
-            "knife/knife/hit_1",
-            "knife/knife/hit_2",
-            "knife/knife/hit_3",
-            "knife/knife/hit_4"
+            "knife/knife/hit_1_m",
+            "knife/knife/hit_2_m",
+            "knife/knife/hit_3_m",
+            "knife/knife/hit_4_m"
         ]
     },
     "knife_knife_hit_secondary": {
         "sounds": [
-            "knife/knife/hit_secondary"
+            "knife/knife/hit_secondary_m"
         ]
     },
     "knife_knife_hit_wall": {
         "sounds": [
-            "knife/knife/hit_wall_1",
-            "knife/knife/hit_wall_2",
-            "knife/knife/hit_wall_3",
-            "knife/knife/hit_wall_4",
-            "knife/knife/hit_wall_5"
+            "knife/knife/hit_wall_1_m",
+            "knife/knife/hit_wall_2_m",
+            "knife/knife/hit_wall_3_m",
+            "knife/knife/hit_wall_4_m",
+            "knife/knife/hit_wall_5_m"
         ]
     },
     "knife_knife_draw": {
         "sounds": [
-            "knife/knife/draw"
+            "knife/knife/draw_m"
         ]
     },
     "pistol_glock_fire": {
         "sounds": [
-            "pistol/glock/fire"
+            "pistol/glock/fire_m"
         ]
     },
 	"pistol_glock_clip_in": {
 		"sounds": [
-			"pistol/glock/clip_in"
+			"pistol/glock/clip_in_m"
 		]
 	},
 	"pistol_glock_clip_out": {
 		"sounds": [
-			"pistol/glock/clip_out"
+			"pistol/glock/clip_out_m"
 		]
 	},
 	"pistol_glock_slide_back": {
 		"sounds": [
-			"pistol/glock/slide_back"
+			"pistol/glock/slide_back_m"
 		]
 	},
 	"pistol_glock_slide_release": {
 		"sounds": [
-			"pistol/glock/slide_release"
+			"pistol/glock/slide_release_m"
 		]
 	},
     "pistol_usp_fire": {
@@ -215,77 +215,77 @@
     },
     "pistol_deagle_fire": {
         "sounds": [
-            "pistol/deagle/fire"
+            "pistol/deagle/fire_m"
         ]
     },
 	"pistol_deagle_clip_in": {
 		"sounds": [
-			"pistol/deagle/clip_in"
+			"pistol/deagle/clip_in_m"
 		]
 	},
 	"pistol_deagle_clip_out": {
 		"sounds": [
-			"pistol/deagle/clip_out"
+			"pistol/deagle/clip_out_m"
 		]
 	},
 	"pistol_deagle_slide_back": {
 		"sounds": [
-			"pistol/deagle/slide_back"
+			"pistol/deagle/slide_back_m"
 		]
 	},
 	"pistol_deagle_slide_release": {
 		"sounds": [
-			"pistol/deagle/slide_release"
+			"pistol/deagle/slide_release_m"
 		]
 	},
     "rifle_ak_fire": {
         "sounds": [
-            "rifle/ak/fire"
+            "rifle/ak/fire_m"
         ]
     },
     "rifle_ak_clip_in": {
         "sounds": [
-            "rifle/ak/clip_in"
+            "rifle/ak/clip_in_m"
         ]
     },
     "rifle_ak_clip_out": {
         "sounds": [
-            "rifle/ak/clip_out"
+            "rifle/ak/clip_out_m"
         ]
     },
     "rifle_ak_bolt_pull": {
         "sounds": [
-            "rifle/ak/bolt_pull"
+            "rifle/ak/bolt_pull_m"
         ]
     },
     "sniper_awp_fire": {
         "sounds": [
-            "sniper/awp/fire"
+            "sniper/awp/fire_m"
         ]
     },
     "sniper_awp_bolt_back": {
         "sounds": [
-            "sniper/awp/bolt_back"
+            "sniper/awp/bolt_back_m"
         ]
     },
     "sniper_awp_clip_in": {
         "sounds": [
-            "sniper/awp/clip_in"
+            "sniper/awp/clip_in_m"
         ]
     },
     "sniper_awp_clip_out": {
         "sounds": [
-            "sniper/awp/clip_out"
+            "sniper/awp/clip_out_m"
         ]
     },
     "sniper_awp_clip_hit": {
         "sounds": [
-            "sniper/awp/clip_hit"
+            "sniper/awp/clip_hit_m"
         ]
     },
     "sniper_awp_bolt_forward": {
         "sounds": [
-            "sniper/awp/bolt_forward"
+            "sniper/awp/bolt_forward_m"
         ]
     },
     "smg_p90_fire": {
@@ -300,12 +300,12 @@
     },
     "grenade_flashbang_hit": {
         "sounds": [
-            "grenade/flashbang/hit"
+            "grenade/flashbang/hit_m"
         ]
     },
     "grenade_flashbang_explode": {
         "sounds": [
-            "grenade/flashbang/explode"
+            "grenade/flashbang/explode_m"
         ]
     },
     "grenade_flashbang_explode_distant": {
@@ -315,12 +315,12 @@
     },
     "grenade_he_hit": {
         "sounds": [
-            "grenade/he/hit"
+            "grenade/he/hit_m"
         ]
     },
     "grenade_he_explode": {
         "sounds": [
-            "grenade/he/explode"
+            "grenade/he/explode_m"
         ]
     }
 }
