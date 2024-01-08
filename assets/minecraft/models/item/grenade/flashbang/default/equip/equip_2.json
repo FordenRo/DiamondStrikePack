@@ -1,0 +1,58 @@
+{
+    "parent": "item/grenade/flashbang/default/idle",
+    "display": {
+        "thirdperson_righthand": {
+            "translation": [
+                0,
+                0.5,
+                0.25
+            ],
+            "scale": [
+                0.4,
+                0.4,
+                0.4
+            ]
+        },
+        "firstperson_righthand": {
+            "rotation": [
+                17.61,
+                -67.22,
+                33.02
+            ],
+            "translation": [
+                -7,
+                8.25,
+                0
+            ],
+            "scale": [
+                0.4,
+                0.4,
+                0.4
+            ]
+        },
+        "gui": {
+            "scale": [
+                0,
+                0,
+                0
+            ]
+        },
+        "head": {
+            "rotation": [
+                0,
+                0,
+                90
+            ],
+            "translation": [
+                0,
+                -30,
+                0
+            ],
+            "scale": [
+                0.5,
+                0.5,
+                0.5
+            ]
+        }
+    }
+}

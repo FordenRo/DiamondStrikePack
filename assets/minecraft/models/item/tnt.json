@@ -55,12 +55,47 @@
             },
             "model": "item/bomb/bomb_7"
         },
+
+
         {
             "predicate": {
-                "custom_model_data": 2000
+                "custom_model_data": 100101
             },
-            "model": "item/grenade/flashbang"
+            "model": "item/grenade/flashbang/default/idle"
         },
+
+        {
+            "predicate": {
+                "custom_model_data": 100201
+            },
+            "model": "item/grenade/flashbang/default/equip/equip_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100202
+            },
+            "model": "item/grenade/flashbang/default/equip/equip_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100203
+            },
+            "model": "item/grenade/flashbang/default/equip/equip_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100204
+            },
+            "model": "item/grenade/flashbang/default/equip/equip_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100205
+            },
+            "model": "item/grenade/flashbang/default/equip/equip_5"
+        },
+
+        
 		{
 			"predicate": {
 				"custom_model_data": 2100
