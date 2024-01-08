@@ -98,9 +98,40 @@
         
 		{
 			"predicate": {
-				"custom_model_data": 2100
+				"custom_model_data": 200101
 			},
-			"model": "item/grenade/he"
-		}
+			"model": "item/grenade/he/default/idle"
+		},
+
+        {
+            "predicate": {
+                "custom_model_data": 200201
+            },
+            "model": "item/grenade/he/default/equip/equip_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200202
+            },
+            "model": "item/grenade/he/default/equip/equip_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200203
+            },
+            "model": "item/grenade/he/default/equip/equip_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200204
+            },
+            "model": "item/grenade/he/default/equip/equip_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200205
+            },
+            "model": "item/grenade/he/default/equip/equip_5"
+        }
     ]
 }
