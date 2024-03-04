@@ -926,6 +926,73 @@
             "model": "item/rifle/ak/default/bolt/bolt_21"
         },
 
+        {
+            "predicate": {
+                "custom_model_data": 200600
+            },
+            "model": "item/rifle/ak/default/equip/equip_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200601
+            },
+            "model": "item/rifle/ak/default/equip/equip_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200602
+            },
+            "model": "item/rifle/ak/default/equip/equip_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200603
+            },
+            "model": "item/rifle/ak/default/equip/equip_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200604
+            },
+            "model": "item/rifle/ak/default/equip/equip_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200605
+            },
+            "model": "item/rifle/ak/default/equip/equip_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200606
+            },
+            "model": "item/rifle/ak/default/equip/equip_6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200607
+            },
+            "model": "item/rifle/ak/default/equip/equip_7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200608
+            },
+            "model": "item/rifle/ak/default/equip/equip_8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200609
+            },
+            "model": "item/rifle/ak/default/equip/equip_9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200610
+            },
+            "model": "item/rifle/ak/default/equip/equip_10"
+        },
+
 
         {
             "predicate": {
