@@ -2291,6 +2291,253 @@
             "model": "item/knife/m9/default/back_stab/stab_8"
         },
 
+        {
+            "predicate": {
+                "custom_model_data": 400600
+            },
+            "model": "item/knife/m9/default/equip/equip_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400601
+            },
+            "model": "item/knife/m9/default/equip/equip_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400602
+            },
+            "model": "item/knife/m9/default/equip/equip_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400603
+            },
+            "model": "item/knife/m9/default/equip/equip_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400604
+            },
+            "model": "item/knife/m9/default/equip/equip_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400605
+            },
+            "model": "item/knife/m9/default/equip/equip_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400606
+            },
+            "model": "item/knife/m9/default/equip/equip_6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400607
+            },
+            "model": "item/knife/m9/default/equip/equip_7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400608
+            },
+            "model": "item/knife/m9/default/equip/equip_8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400609
+            },
+            "model": "item/knife/m9/default/equip/equip_9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400610
+            },
+            "model": "item/knife/m9/default/equip/equip_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400611
+            },
+            "model": "item/knife/m9/default/equip/equip_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400612
+            },
+            "model": "item/knife/m9/default/equip/equip_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400613
+            },
+            "model": "item/knife/m9/default/equip/equip_13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400614
+            },
+            "model": "item/knife/m9/default/equip/equip_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400615
+            },
+            "model": "item/knife/m9/default/equip/equip_15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400616
+            },
+            "model": "item/knife/m9/default/equip/equip_16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400617
+            },
+            "model": "item/knife/m9/default/equip/equip_17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400618
+            },
+            "model": "item/knife/m9/default/equip/equip_18"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400619
+            },
+            "model": "item/knife/m9/default/equip/equip_19"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400620
+            },
+            "model": "item/knife/m9/default/equip/equip_20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400621
+            },
+            "model": "item/knife/m9/default/equip/equip_21"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400622
+            },
+            "model": "item/knife/m9/default/equip/equip_22"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400623
+            },
+            "model": "item/knife/m9/default/equip/equip_23"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400624
+            },
+            "model": "item/knife/m9/default/equip/equip_24"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400625
+            },
+            "model": "item/knife/m9/default/equip/equip_25"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400626
+            },
+            "model": "item/knife/m9/default/equip/equip_26"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400627
+            },
+            "model": "item/knife/m9/default/equip/equip_27"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400628
+            },
+            "model": "item/knife/m9/default/equip/equip_28"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400629
+            },
+            "model": "item/knife/m9/default/equip/equip_29"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400630
+            },
+            "model": "item/knife/m9/default/equip/equip_30"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400631
+            },
+            "model": "item/knife/m9/default/equip/equip_31"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400632
+            },
+            "model": "item/knife/m9/default/equip/equip_32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400633
+            },
+            "model": "item/knife/m9/default/equip/equip_33"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400634
+            },
+            "model": "item/knife/m9/default/equip/equip_34"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400635
+            },
+            "model": "item/knife/m9/default/equip/equip_35"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400636
+            },
+            "model": "item/knife/m9/default/equip/equip_36"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400637
+            },
+            "model": "item/knife/m9/default/equip/equip_37"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400638
+            },
+            "model": "item/knife/m9/default/equip/equip_38"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400639
+            },
+            "model": "item/knife/m9/default/equip/equip_39"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 400640
+            },
+            "model": "item/knife/m9/default/equip/equip_40"
+        },
+
 
         {
             "predicate": {
