@@ -1,1 +1,1 @@
-{"parent":"item/knife/m9/default/idle","display":{"firstperson_righthand":{"translation":[-7.00000047683716,0,0],"rotation":[40.8600006103516,0,81.7600021362305]},"thirdperson_righthand":{"translation":[-1.50000011920929,4.5,2],"rotation":[81.5000076293945,-65,67.5]}}}
+{"parent": "item/knife/m9/default/idle", "display": {"firstperson_righthand": {"translation": [-7.00000047683716, 10, 0], "rotation": [40.8600006103516, 0, 81.7600021362305]}, "thirdperson_righthand": {"translation": [-1.50000011920929, 4.5, 2], "rotation": [81.5000076293945, -65, 67.5]}}}
