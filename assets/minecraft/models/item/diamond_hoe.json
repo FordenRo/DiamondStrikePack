@@ -199,7 +199,67 @@
             },
             "model": "item/pistol/glock/default/reload/reload_26"
         },
+        {
+            "predicate": {
+                "custom_model_data": 100227
+            },
+            "model": "item/pistol/glock/default/reload/reload_27"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100228
+            },
+            "model": "item/pistol/glock/default/reload/reload_28"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100229
+            },
+            "model": "item/pistol/glock/default/reload/reload_29"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100230
+            },
+            "model": "item/pistol/glock/default/reload/reload_30"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100231
+            },
+            "model": "item/pistol/glock/default/reload/reload_31"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100232
+            },
+            "model": "item/pistol/glock/default/reload/reload_32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100233
+            },
+            "model": "item/pistol/glock/default/reload/reload_33"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100234
+            },
+            "model": "item/pistol/glock/default/reload/reload_34"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100235
+            },
+            "model": "item/pistol/glock/default/reload/reload_35"
+        },
 
+        {
+            "predicate": {
+                "custom_model_data": 100300
+            },
+            "model": "item/pistol/glock/default/fire/fire_0"
+        },
         {
             "predicate": {
                 "custom_model_data": 100301
@@ -212,6 +272,627 @@
             },
             "model": "item/pistol/glock/default/fire/fire_2"
         },
+        {
+            "predicate": {
+                "custom_model_data": 100303
+            },
+            "model": "item/pistol/glock/default/fire/fire_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100304
+            },
+            "model": "item/pistol/glock/default/fire/fire_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100305
+            },
+            "model": "item/pistol/glock/default/fire/fire_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100306
+            },
+            "model": "item/pistol/glock/default/fire/fire_6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100307
+            },
+            "model": "item/pistol/glock/default/fire/fire_7"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 100400
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100401
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100402
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100403
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100404
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100405
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100406
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100407
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100408
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100409
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100410
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100411
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100412
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100413
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100414
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100415
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_15"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100416
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_16"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100417
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_17"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100418
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_18"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100419
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_19"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100420
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_20"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100421
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_21"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100422
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_22"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100423
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_23"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100424
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_24"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100425
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_25"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100426
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_26"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100427
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_27"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100428
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_28"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100429
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_29"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100430
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_30"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100431
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_31"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100432
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_32"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100433
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_33"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100434
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_34"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100435
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_35"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100436
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_36"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100437
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_37"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100438
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_38"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100439
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_39"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100440
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_40"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100441
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_41"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100442
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_42"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100443
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_43"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100444
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_44"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100445
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_45"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100446
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_46"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100447
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_47"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100448
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_48"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100449
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_49"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100450
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_50"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100451
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_51"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100452
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_52"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100453
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_53"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100454
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_54"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100455
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_55"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100456
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_56"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100457
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_57"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100458
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_58"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100459
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_59"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100460
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_60"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100461
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_61"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100462
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_62"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100463
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_63"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100464
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_64"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100465
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_65"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100466
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_66"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100467
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_67"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100468
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_68"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100469
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_69"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100470
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_70"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100471
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_71"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100472
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_72"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100473
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_73"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100474
+            },
+            "model": "item/pistol/glock/default/inspect/inspect_74"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 100500
+            },
+            "model": "item/pistol/glock/default/equip/equip_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100501
+            },
+            "model": "item/pistol/glock/default/equip/equip_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100502
+            },
+            "model": "item/pistol/glock/default/equip/equip_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100503
+            },
+            "model": "item/pistol/glock/default/equip/equip_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100504
+            },
+            "model": "item/pistol/glock/default/equip/equip_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100505
+            },
+            "model": "item/pistol/glock/default/equip/equip_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100506
+            },
+            "model": "item/pistol/glock/default/equip/equip_6"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 100600
+            },
+            "model": "item/pistol/glock/default/bolt/bolt_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100601
+            },
+            "model": "item/pistol/glock/default/bolt/bolt_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100602
+            },
+            "model": "item/pistol/glock/default/bolt/bolt_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100603
+            },
+            "model": "item/pistol/glock/default/bolt/bolt_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100604
+            },
+            "model": "item/pistol/glock/default/bolt/bolt_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100605
+            },
+            "model": "item/pistol/glock/default/bolt/bolt_5"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100606
+            },
+            "model": "item/pistol/glock/default/bolt/bolt_6"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100607
+            },
+            "model": "item/pistol/glock/default/bolt/bolt_7"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100608
+            },
+            "model": "item/pistol/glock/default/bolt/bolt_8"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100609
+            },
+            "model": "item/pistol/glock/default/bolt/bolt_9"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100610
+            },
+            "model": "item/pistol/glock/default/bolt/bolt_10"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100611
+            },
+            "model": "item/pistol/glock/default/bolt/bolt_11"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100612
+            },
+            "model": "item/pistol/glock/default/bolt/bolt_12"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100613
+            },
+            "model": "item/pistol/glock/default/bolt/bolt_13"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100614
+            },
+            "model": "item/pistol/glock/default/bolt/bolt_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100615
+            },
+            "model": "item/pistol/glock/default/bolt/bolt_15"
+        },
 
 
         {
@@ -221,6 +902,12 @@
             "model": "item/rifle/ak/default/idle"
         },
 
+        {
+            "predicate": {
+                "custom_model_data": 200200
+            },
+            "model": "item/rifle/ak/default/reload/reload_0"
+        },
         {
             "predicate": {
                 "custom_model_data": 200201
